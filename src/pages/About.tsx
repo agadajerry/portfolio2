@@ -2,6 +2,7 @@ import Layout from "../Layout";
 import image1 from "../assets/images/my_picture.jpeg";
 import { AiFillGithub, AiOutlineMail, AiFillLinkedin } from "react-icons/ai";
 import { BsLink45Deg } from "react-icons/bs";
+//@ts-ignore
 import {skills,interest} from "../mockdata"
 
 
