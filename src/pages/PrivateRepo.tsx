@@ -1,6 +1,4 @@
-import React from 'react'
 import { useNavigate } from 'react-router-dom'
-import Layout from '../Layout'
 
 function PrivateRepo() {
    const navigate = useNavigate()
