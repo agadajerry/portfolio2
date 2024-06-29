@@ -8,8 +8,8 @@ const cardDetails = [
   {
     icon: cbc,
     title: "Full stack developer",
-    description: `I was part of a team that designed and developed the FirstToken middleware and deployed it on the IIS FirstBank 
-    platform. I also contributed to developing the FirstToken mobile application.`,
+    description: `I was part of a team that designed and developed FirstToken middleware and deployed on the IIS FirstBank 
+    server platform. I also contributed to development of the FirstToken mobile application.`,
 
     company: "CBCEmea Gedu Tech",
     address:"Lekki, Lagos Nigeria",
@@ -18,7 +18,7 @@ const cardDetails = [
   {
     icon: gtbsvg,
    title: "Full stack developer",
-   description: `I am part of the team that developed a chatbot 
+   description: `I was part of the team that developed a chatbot 
    for GTB using WhatsApp cloud api, CRM, and NLP. This web service helps customers solve their 
    problems, and you can find the chatbot widget at the bottom right of the website.",
    company: "GTB`,
