@@ -255,9 +255,8 @@ body {
 
 .portfolio-container .row .portfolio-content:hover {
     transition: 0.5s ease-in-out;
-    border: 1px solid #e31571d9;
+    /* border: 1px solid #e31571d9; */
     opacity: 0.8;
-    ;
 }
 
 .portfolio-container .row .col .card {
